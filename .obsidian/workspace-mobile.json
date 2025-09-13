@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asteroid Collision.md",
+                "file": "Stock span.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Asteroid Collision"
+              "title": "Stock span"
             }
           }
         ]
@@ -156,6 +156,7 @@
   },
   "active": "6dd739e1aea36465",
   "lastOpenFiles": [
+    "Asteroid Collision.md",
     "Manifesto.md",
     "Last Stone Weight.md",
     "Non cyclic number.md",
