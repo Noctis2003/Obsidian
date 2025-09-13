@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Last Stone Weight.md",
+                "file": "KOKO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Last Stone Weight"
+              "title": "KOKO"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Permutations.md",
+            "file": "Last Stone Weight.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,10 +156,13 @@
   },
   "active": "6dd739e1aea36465",
   "lastOpenFiles": [
+    "Last Stone Weight.md",
+    "KOKO.md",
+    "Level order.md",
+    "BST.md",
     "Stock span.md",
     "Asteroid Collision.md",
     "Manifesto.md",
-    "Last Stone Weight.md",
     "Non cyclic number.md",
     "Non cyclical number.md",
     "Combination Sum 2.md",
