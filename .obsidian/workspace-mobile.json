@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Last Stone Weight.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Last Stone Weight"
             }
           }
         ]
@@ -156,9 +156,14 @@
   },
   "active": "6dd739e1aea36465",
   "lastOpenFiles": [
-    "Permutations.md",
-    "Readme.md",
+    "Stock span.md",
+    "Asteroid Collision.md",
+    "Manifesto.md",
+    "Last Stone Weight.md",
+    "Non cyclic number.md",
+    "Non cyclical number.md",
     "Combination Sum 2.md",
-    "Non cyclic number.md"
+    "Permutations.md",
+    "Readme.md"
   ]
 }
