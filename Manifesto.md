@@ -4,4 +4,4 @@ The main aim here is to test the Noctis protocol
 2. Then you honestly do codeforces
 3. You may look at algo, but never the proper solution
 4. Dont make it like JEE race, take your time
-5. Do not switch questions too quickly
+5. Do not switch questions too quickly.
