@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stock span.md",
+                "file": "Last Stone Weight.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stock span"
+              "title": "Last Stone Weight"
             }
           }
         ]
@@ -156,6 +156,7 @@
   },
   "active": "6dd739e1aea36465",
   "lastOpenFiles": [
+    "Stock span.md",
     "Asteroid Collision.md",
     "Manifesto.md",
     "Last Stone Weight.md",
